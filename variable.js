@@ -11,3 +11,7 @@ var dogsAllowed = true
 console.log(dogsAllowed)
 var friends = ["Jake", "Logan", "Katelyn", "Wyatt", "Shauna"];
 console.log(friends.pop());
+console.log(friends);
+friends.pop();
+console.log(friends);
+})
