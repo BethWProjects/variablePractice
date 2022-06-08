@@ -14,4 +14,3 @@ console.log(friends.pop());
 console.log(friends);
 friends.pop();
 console.log(friends);
-})
