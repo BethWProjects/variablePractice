@@ -16,3 +16,4 @@ friends.pop();
 console.log(friends);
 console.log(friends.unshift("Jimmy"));
 console.log(friends);
+console.log(friends.slice("2"));
