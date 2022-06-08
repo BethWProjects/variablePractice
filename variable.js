@@ -10,5 +10,4 @@ var age = 32
 var dogsAllowed = true
 console.log(dogsAllowed)
 var friends = ["Jake", "Logan", "Katelyn", "Wyatt", "Shauna"];
-friends.pop();
-console.log(friends.pop);
+console.log(friends.pop());
