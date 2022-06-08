@@ -9,3 +9,8 @@ var name = "Lynn"
 var age = 32
 var dogsAllowed = true
 console.log(dogsAllowed)
+var students = ["Cindy", "Josiah", "Rigo"];
+
+console.log(students[0]);
+
+console.log(students[2]);
