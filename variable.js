@@ -14,5 +14,5 @@ console.log(friends.pop());
 console.log(friends);
 friends.pop();
 console.log(friends);
-console.log(friends.unshift(Jimmy));
+console.log(friends.unshift("Jimmy"));
 console.log(friends);
